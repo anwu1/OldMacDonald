@@ -1,6 +1,7 @@
 interface Animal 
 {    
-	   public String getSound();        
+	public String getSound();        
   public String getType();
+
 
 }  
